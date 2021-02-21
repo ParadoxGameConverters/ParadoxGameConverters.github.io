@@ -1,7 +1,7 @@
 # Paradox Game Converters
 Page under construction (we party like its 1999)
 
-<a href="https://www.patreon.com/bePatron?u=13324472" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+<a href="https://www.patreon.com/bePatron?u=13324472" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://cdn6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ## Current Generation Converters
 
