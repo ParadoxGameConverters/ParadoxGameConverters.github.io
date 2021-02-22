@@ -1,6 +1,8 @@
 # Paradox Game Converters
 Page under construction (we party like its 1999)
 
+<a href="https://www.patreon.com/bePatron?u=13324472" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+
 ## Current Generation Converters
 
 ### Imperator to CK3
