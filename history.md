@@ -143,3 +143,5 @@ Apr 14, 2020 - CK2 to EU4 announced (replacing DLC converter)
 May 29, 2019 - “Roof of the World” begins (Kangxi)
 Sept 1, 2020 - CK3 released, Imperator to CK3 announced, CK3 to EU4 announced
 Apr 25, 2021 - “Knights Last Gleaming” first session
+
+[back to the main page](index.md)
