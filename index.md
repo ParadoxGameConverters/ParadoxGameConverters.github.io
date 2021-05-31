@@ -10,6 +10,9 @@ Page under construction (we party like its 1999)
 ### EU4 to Vic2  
 ### Vic2 to HoI4  
 
+## The history of converters and megacampaigns
+[I've written about the hsitory of megacampaigns and converteres here](history.md).
+
 ## Older Converters (may or may not be maintained)
 ### Imperator to CK2
 ### CK2 to EU3
