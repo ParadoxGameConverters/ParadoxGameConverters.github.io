@@ -24,7 +24,7 @@ Dec 20, 2018 - iSorrowproductions starts doing megacampaigns each December
 Oct  8, 2007 - “Kingdom Come” begins (Fintilgin)  
 Nov 25, 2007 - “The Eyes of Texas Are Upon You” begins (Danimo)  
 Mar  2, 2008 - “Hohenzollern” begins (Wiz)  
-Nov 28, 2009 - “ I've lost track of all these Romes” begins (Sam.)  
+Nov 28, 2009 - “ I've lost track of all these Romes” (Srbja and Friends) begins (Sam.)  
 Aug  4, 2011 - “Islam is the Light: Azerbaijan Paradox Mega-LP” begins (Wiz)  
 Mar 17, 2013 - “Flamboyant Schemers” begins (Thanqol)  
 Oct  5, 2013 - “One Thousand Years of Misrule” begins (Grey Hunter)  
