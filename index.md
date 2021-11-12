@@ -9,7 +9,7 @@
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2255281636)  
 
 ### Imperator to CK2
-![Imperator to CK3 Banner](/images/AssyrianReleaseBanner.png)  
+![Imperator to CK2 Banner](/images/AssyrianReleaseBanner.png)  
 [Paradox Forums](https://forum.paradoxplaza.com/forum/threads/imperator-to-ck2-release-thread.1496613/)  
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2646140574)  
 
