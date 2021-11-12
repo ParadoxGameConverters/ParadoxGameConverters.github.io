@@ -37,6 +37,7 @@
 [I've written about the history of megacampaigns and converters here](history.md).
 
 ## Older Converters (No longer maintained)
-### [CK2 to EU3](https://forum.paradoxplaza.com/forum/index.php?threads/the-ck2-to-eu3-converter-project.587798/)
-### [EU3 to Vic2](https://forum.paradoxplaza.com/forum/index.php?threads/paradox-game-converters.743404/#post-16618312)
-### [Vic2 to HoI3](https://forum.paradoxplaza.com/forum/index.php?threads/paradox-game-converters.743404/#post-16618313)
+
+* [CK2 to EU3](https://forum.paradoxplaza.com/forum/index.php?threads/the-ck2-to-eu3-converter-project.587798/)
+* [EU3 to Vic2](https://forum.paradoxplaza.com/forum/index.php?threads/paradox-game-converters.743404/#post-16618312)
+* [Vic2 to HoI3](https://forum.paradoxplaza.com/forum/index.php?threads/paradox-game-converters.743404/#post-16618313)
