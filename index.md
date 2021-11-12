@@ -8,13 +8,18 @@
 [Paradox Forums](https://forum.paradoxplaza.com/forum/threads/imperator-to-ck3-release-thread.1415172/)  
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2255281636)  
 
+### Imperator to CK2
+![Imperator to CK3 Banner](/images/AssyrianReleaseBanner.png)  
+[Paradox Forums](https://forum.paradoxplaza.com/forum/threads/imperator-to-ck2-release-thread.1496613/)  
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2646140574)  
+
 ### CK3 to EU4  
-![CK3 to EU4 Banner](/images/CK3ToEU4Banner.png)  
+![CK3 to EU4 Banner](/images/InsularReleaseBanner.png)  
 [Paradox Forums](https://forum.paradoxplaza.com/forum/threads/ck3-to-eu4-converter-release-thread.1415137/)  
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2241203093)  
 
 ### EU4 to Vic2  
-![EU4 to Vic2 Banner](/images/EU4ToVic2Banner.png)  
+![EU4 to Vic2 Banner](/images/TeutonicReleaseBanner.png)  
 [Paradox Forums](https://forum.paradoxplaza.com/forum/index.php?threads/eu4-to-vic2-converter-release-thread.973026/)  
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=392447667)  
 
