@@ -4,7 +4,7 @@
 ## Currently Supported Converters
 
 ### Imperator to CK3
-![Imperator to CK3 Banner](/images/ImperatorToCK3Banner.png)  
+![Imperator to CK3 Banner](https://raw.githubusercontent.com/ParadoxGameConverters/ImperatorToCK3/master/ImperatorToCK3/Resources/images/LatestReleaseBanner.png)  
 [Paradox Forums](https://forum.paradoxplaza.com/forum/threads/imperator-to-ck3-release-thread.1415172/)  
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2255281636)  
 
