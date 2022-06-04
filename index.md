@@ -31,7 +31,11 @@
 ### Vic2 to HoI4  
 ![Vic2 to HoI4 Banner](/images/Vic2ToHoI4Banner.png)  
 [Paradox Forums](https://forum.paradoxplaza.com/forum/threads/vic2-to-hoi4-converter-release-thread.948992/)  
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=733122837)  
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=733122837) 
+
+## HoI4 Map Drawer
+A tool to take make maps from HoI4 saves
+[Paradox Forums](https://forum.paradoxplaza.com/forum/threads/tool-hoi4-mapping-tool.1046139/)
 
 ## The history of converters and megacampaigns
 [I've written about the history of megacampaigns and converters here](history.md).
