@@ -34,7 +34,7 @@
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=733122837) 
 
 ## HoI4 Map Drawer
-A tool to take make maps from HoI4 saves
+A tool to take make maps from HoI4 saves  
 [Paradox Forums](https://forum.paradoxplaza.com/forum/threads/tool-hoi4-mapping-tool.1046139/)
 
 ## The history of converters and megacampaigns
