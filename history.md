@@ -2,7 +2,7 @@
 
 I gave a talk at PDXCon 2021 about this, if you'd like the history in that form. You can find the recording [here](https://www.twitch.tv/videos/1032428222?filter=highlights&sort=time).
 
-When Crusader Kings was released, it included an exporter to Europa Universalis 2. This inspired a multiplayer group to try a campaign from CK to EU2. Rolf Andreassen (King of Men) was unsatisfied with the quality and wrote a fan-made converter. Around the same time, Chaingun created an EU4 to Vic converter, which later saw signficant improvements from montyP.
+When Crusader Kings was released, it included an exporter to Europa Universalis 2. This inspired a multiplayer group to try a campaign from CK to EU2. Rolf Andreassen (King of Men) was unsatisfied with the quality and wrote a fan-made converter. Around the same time, Chaingun created an EU2 to Vic converter, which later saw signficant improvements from montyP.
 
 When the multiplayer group began their campaign, they also wrote After Action Reports (AARs) for it, creating the first megacampaign AAR. Portions of is can be read on [King of Men's webpage](https://sites.google.com/site/komskustomkonverters/aars) or on the [Paradox forums](https://forum.paradoxplaza.com/forum/threads/the-great-game-mp-aar.197420/).
 
