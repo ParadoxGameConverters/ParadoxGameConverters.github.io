@@ -20,7 +20,7 @@
 
 ### CK2 to EU4  
 ![CK2 to EU4 Banner](/images/CK2ToEU4Banner.png)  
-[Paradox Forums]https://forum.paradoxplaza.com/forum/threads/ck2-to-eu4-converter-release-thread.1377860/)  
+[Paradox Forums](https://forum.paradoxplaza.com/forum/threads/ck2-to-eu4-converter-release-thread.1377860/)  
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2241203093)  
 
 ### EU4 to Vic3 
