@@ -140,6 +140,12 @@ Mar 11, 2020 - “The Widow’s Party” begins (KoMnenoi)
 Apr 14, 2020 - CK2 to EU4 announced (replacing DLC converter)  
 May 29, 2019 - “Roof of the World” begins (Kangxi)  
 Sept 1, 2020 - CK3 released, Imperator to CK3 announced, CK3 to EU4 announced  
+Sept 27, 2020 - CK3 to EU4 released
+Oct 11, 2020 - Imperator to CK3 released
 Apr 25, 2021 - “Knights Last Gleaming” first session  
+Nov 5, 2021 - Imperator to CK2 released
+May 21, 2022 - Victoria 3 announced - EU4 to Vic3 and Vic3 to HoI4 announced.
+Oct 25, 2022 - Victoria 3 released
+Jan 21, 2023 - EU4 to Vic3 released
 
 [back to the main page](index.md)

@@ -14,17 +14,22 @@
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2646140574)  
 
 ### CK3 to EU4  
-![CK3 to EU4 Banner](/images/InsularReleaseBanner.png)  
+![CK3 to EU4 Banner](/images/CK3ToEU4Banner.png)  
 [Paradox Forums](https://forum.paradoxplaza.com/forum/threads/ck3-to-eu4-converter-release-thread.1415137/)  
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2241203093)  
 
 ### CK2 to EU4  
-![CK2 to EU4 Banner](/images/HabsburgReleaseBanner.png)  
+![CK2 to EU4 Banner](/images/CK2ToEU4Banner.png)  
 [Paradox Forums]https://forum.paradoxplaza.com/forum/threads/ck2-to-eu4-converter-release-thread.1377860/)  
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2241203093)  
 
+### EU4 to Vic3 
+![EU4 to Vic2 Banner](/images/EU4ToVic3Banner.png)  
+[Paradox Forums](https://forum.paradoxplaza.com/forum/threads/eu4-to-vic3-converter-thread.1475054/)  
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2922675519)  
+
 ### EU4 to Vic2  
-![EU4 to Vic2 Banner](/images/TeutonicReleaseBanner.png)  
+![EU4 to Vic2 Banner](/images/EU4ToVic2Banner.png)  
 [Paradox Forums](https://forum.paradoxplaza.com/forum/threads/eu4-to-vic2-converter-release-thread.973026/)  
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=392447667)  
 
